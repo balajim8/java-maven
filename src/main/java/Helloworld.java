@@ -9,7 +9,7 @@ public class Helloworld {
             sb.append("Hello");
             sb.append("how are you ");
 
-            String s = sb.toString();
+            String s = sb.toString();// test
             System.out.println("String is " + s);
 
             int i = 10;
